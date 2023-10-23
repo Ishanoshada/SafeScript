@@ -53,12 +53,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Version History
 
-- v1.0.0 (Current Version)
+- v1.0.1 (Current Version)
     - Initial release with basic security functions.
 
 ## Contributors
 
 - [Ishan Oshada](https://github.com/ishanoshada)
 
-- 
+  
 
