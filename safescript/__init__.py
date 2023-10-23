@@ -30,13 +30,13 @@ class SafeScript:
         sanitized_html = SafeScript.sanitize_html(input_data)
         escaped_html = SafeScript.escape_html(sanitized_html)
         sanitized_sql = SafeScript.sanitize_sql(input_data)
-        validated_input = SafeScript.validate_input(input_data)
+        
         
         return {
             "sanitized_html": sanitized_html,
             "escaped_html": escaped_html,
-            "sanitized_sql": sanitized_sql,
-            "validated_input": validated_input
+            "sanitized_sql": sanitized_sql
+          
         }
 
 
