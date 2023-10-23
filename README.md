@@ -1,5 +1,8 @@
 # SafeScript v1.0.1
 
+![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
+
+
 SafeScript is a Python module designed to enhance the security of web applications by providing various functions to prevent common security vulnerabilities such as XSS and SQL Injection attacks.
 
 ## Features
@@ -46,6 +49,8 @@ print(output)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/safescript/count.svg)
+
 ## Version History
 
 - v1.0.0 (Current Version)
@@ -54,4 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors
 
 - [Ishan Oshada](https://github.com/ishanoshada)
+
+- 
 
