@@ -1,7 +1,6 @@
-# SafeScript v1.0.1
+# SafeScript v1.0.2
 
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
-
 
 SafeScript is a Python module designed to enhance the security of web applications by providing various functions to prevent common security vulnerabilities such as XSS and SQL Injection attacks.
 
@@ -17,13 +16,13 @@ SafeScript is a Python module designed to enhance the security of web applicatio
 You can install SafeScript using pip:
 
 ```bash
-pip install SafeScript
+pip install safescript
 ```
 
 ## Usage
 
 ```python
-from SafeScript import SafeScript
+from safescript import SafeScript
 
 # Example Usage
 input_data = "<script>alert('XSS Attack')</script>"
@@ -45,20 +44,17 @@ print(output)
 - **prevent_xss_and_sqli(input_data)**
    - Prevent both XSS and SQL Injection attacks.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Repository Views** ![Views](https://profile-counter.glitch.me/safescript/count.svg)
-
 ## Version History
 
-- v1.0.1 (Current Version)
-    - Initial release with basic security functions.
+- v1.0.2 (Current Version)
+    - [List of changes in v1.0.2]
 
+- v1.0.1
+   - Initial release with basic security functions.
+
+
+ 
 ## Contributors
 
 - [Ishan Oshada](https://github.com/ishanoshada)
-
-  
 
