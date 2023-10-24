@@ -52,6 +52,7 @@ print(output)
 - v1.0.1
    - Initial release with basic security functions.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/safescript/count.svg)
 
  
 ## Contributors
