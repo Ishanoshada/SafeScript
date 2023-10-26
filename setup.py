@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='safescript',
-    version='1.0.2',
+    version='1.0.3',
     description='A Python module for enhancing web application security',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
